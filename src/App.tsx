@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Users, TrendingUp, BarChart3, Target, Plus, Download, Upload, Edit2, Trash2 } from 'lucide-react';
+import { Users, TrendingUp, BarChart3, Target, Plus, Download, Upload, Edit2, Trash2,} from 'lucide-react';
 
 // Interfaces pour les types de données
 interface ExchangeRates {
